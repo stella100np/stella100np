@@ -10,8 +10,6 @@
 - ❓ Ask me about anything related to Vue stack and related technologies  
   
 
-<br/>  
-
 ## Recent Blog Posts  
 - 👍[What is FLIP](https://island-tech-blog.pages.dev/posts/what-is-FLIP/)  
 - [How to use FLIP in react](https://island-tech-blog.pages.dev/posts/flip-introduction-react/)
@@ -32,7 +30,6 @@
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-<br/>  
 
 
 ## Github Stats  
