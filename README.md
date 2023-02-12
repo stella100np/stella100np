@@ -1,4 +1,4 @@
-### <div align="center">I'm stella100np, a full-time front-end engineer 👨‍💻 working remotely since 2018🚀</div>  
+### <div align="center">I'm stella100np, a full-time front-end engineer 👨‍💻 working since 2018🚀</div>  
   
 
 - 🔭 I’m currently working on [Adjacentech](https://www.adjacentech.com/home)  
